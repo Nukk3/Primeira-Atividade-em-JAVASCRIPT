@@ -1,0 +1,60 @@
+body{
+    background: #272726 url(https://wallpaperaccess.com/full/3263675.jpg);
+    font: 16px arial, helvetica, sans-serif;
+    align-items: center;
+}
+
+p {color: rgb(9, 244, 193);}
+ 
+#principal{
+    width: 900px;
+    align-items: center;
+    margin: 0 auto;
+}
+ 
+#atividades {
+    background:rgba(209, 47, 47, 0);
+    padding: 25px;
+}
+ 
+#conteudo {
+    background-color: blue;
+    opacity: 0.7;
+    padding: 15px;
+    text-align: justify;
+}
+ 
+h1 {
+    color:#c5d26a;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+ 
+#rodape {
+    text-align: center;
+}
+ 
+a {
+    color: #feed00;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px;
+}
+ 
+a:hover {
+    text-decoration: underline;
+    color: #dd423e;
+}
+ 
+.img-campanha {
+    border: 10px solid #afafa2;
+    display: block; /* faz com que a imagem se comporte como um bloco, ocupando toda a largura disponevel*/
+    margin:  auto;
+}
+
+.Divisoria {
+    border: 10;
+    height: 10px;
+    background: rgb(63, 182, 225);
+    margin: 20px 0;
+}
